@@ -1,6 +1,6 @@
 {
   "name": "gulp-image-set-plus",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Gulp plugin to add future-proofed support for W3C-style image set notation.",
   "author": {
     "name": "zhenbinjing",
@@ -37,7 +37,7 @@
   "dependencies": {
     "gulp-util": "^3.0.2",
     "rework": "^1.0.1",
-    "rework-image-set-plus": "0.1.1",
+    "rework-image-set-plus": "0.2.0",
     "through2": "^2.0.0"
   },
   "devDependencies": {
